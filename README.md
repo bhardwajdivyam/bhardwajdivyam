@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BTech CSE student<br>I'm currently learning DSA <br>I have learned Python, Html & CSS and i know basic javascript<br>18 yo 
+18 yo trying to code
 
 
 ## 🌐 Socials:
