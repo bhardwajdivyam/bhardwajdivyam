@@ -1,5 +1,5 @@
 # 💫 About Me:
-18 yo trying to code
+19 yo; loves to code
 
 
 ## 🌐 Socials:
